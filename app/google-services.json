@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1072082860051",
+    "firebase_url": "https://admob-app-id-2117788168.firebaseio.com",
+    "project_id": "admob-app-id-2117788168",
+    "storage_bucket": "admob-app-id-2117788168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072082860051:android:1dfe789f7f93107d",
+        "android_client_info": {
+          "package_name": "by.kipind.game.butterflyhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072082860051-bmd2cdaml2bhvt0vk77ingcr83p0n6vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvC8QRyTth3UzpXeRbmNUzI4S2yMuiiuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072082860051:android:8667d237646bf227",
+        "android_client_info": {
+          "package_name": "by.kipind.game.olympicgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072082860051-bmd2cdaml2bhvt0vk77ingcr83p0n6vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvC8QRyTth3UzpXeRbmNUzI4S2yMuiiuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
