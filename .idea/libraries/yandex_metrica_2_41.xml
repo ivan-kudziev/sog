@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="yandex-metrica-2.41">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/yandex-metrica-2.41.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
