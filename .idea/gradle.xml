@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/andEngine" />
             <option value="$PROJECT_DIR$/andEnginePhysicsBox2DExtension" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/cheetah-mobile-3.4.7" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
